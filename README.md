@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gopalrajane/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/gopalrajane/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/gopalrajane/DSA/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
 ## String
 |  |
