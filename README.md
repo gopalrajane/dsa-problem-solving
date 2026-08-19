@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/gopalrajane/DSA/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gopalrajane/DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
