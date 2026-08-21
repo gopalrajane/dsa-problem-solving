@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gopalrajane/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
+| [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
