@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/gopalrajane/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/gopalrajane/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/gopalrajane/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/gopalrajane/DSA/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
 | ------- |
