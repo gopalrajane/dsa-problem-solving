@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gopalrajane/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gopalrajane/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
+| [1480-running-sum-of-1d-array](https://github.com/gopalrajane/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gopalrajane/DSA/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gopalrajane/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
