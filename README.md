@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/gopalrajane/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gopalrajane/DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gopalrajane/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
