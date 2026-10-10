@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gopalrajane/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/gopalrajane/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gopalrajane/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gopalrajane/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gopalrajane/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gopalrajane/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
