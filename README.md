@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gopalrajane/DSA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/gopalrajane/DSA/tree/master/0905-sort-array-by-parity) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gopalrajane/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gopalrajane/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gopalrajane/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/gopalrajane/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gopalrajane/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gopalrajane/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
