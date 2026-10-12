@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gopalrajane/DSA/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/gopalrajane/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/gopalrajane/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
 ## Monotonic Stack
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gopalrajane/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gopalrajane/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/gopalrajane/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gopalrajane/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gopalrajane/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/gopalrajane/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/gopalrajane/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gopalrajane/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/gopalrajane/DSA/tree/master/0509-fibonacci-number) |
