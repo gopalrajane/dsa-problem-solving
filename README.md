@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/gopalrajane/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/gopalrajane/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gopalrajane/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
