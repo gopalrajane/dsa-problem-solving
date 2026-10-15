@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gopalrajane/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/gopalrajane/DSA/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gopalrajane/DSA/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/gopalrajane/DSA/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
