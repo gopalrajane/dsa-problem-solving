@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/gopalrajane/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/gopalrajane/DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/gopalrajane/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gopalrajane/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gopalrajane/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/gopalrajane/DSA/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
