@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gopalrajane/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gopalrajane/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gopalrajane/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gopalrajane/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/gopalrajane/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gopalrajane/DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/gopalrajane/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/gopalrajane/DSA/tree/master/0412-fizz-buzz) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/gopalrajane/DSA/tree/master/0258-add-digits) |
 ## Greedy
 |  |
@@ -226,4 +229,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gopalrajane/DSA/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
