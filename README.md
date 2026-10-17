@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/gopalrajane/DSA/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopalrajane/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gopalrajane/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gopalrajane/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/gopalrajane/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gopalrajane/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Interactive
 |  |
 | ------- |
