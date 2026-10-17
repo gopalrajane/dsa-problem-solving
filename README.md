@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopalrajane/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gopalrajane/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/gopalrajane/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/gopalrajane/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/gopalrajane/DSA/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/gopalrajane/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gopalrajane/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/gopalrajane/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
 | ------- |
@@ -254,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/gopalrajane/DSA/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
