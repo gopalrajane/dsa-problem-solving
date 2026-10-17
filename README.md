@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/gopalrajane/DSA/tree/master/0670-maximum-swap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gopalrajane/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gopalrajane/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/gopalrajane/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/gopalrajane/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/gopalrajane/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/gopalrajane/DSA/tree/master/2427-number-of-common-factors) |
