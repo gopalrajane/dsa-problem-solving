@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopalrajane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/gopalrajane/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/gopalrajane/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gopalrajane/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/gopalrajane/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/gopalrajane/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gopalrajane/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/gopalrajane/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/gopalrajane/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gopalrajane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gopalrajane/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
