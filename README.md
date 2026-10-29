@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gopalrajane/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gopalrajane/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopalrajane/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gopalrajane/DSA/tree/master/0035-search-insert-position) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gopalrajane/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/gopalrajane/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/gopalrajane/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/gopalrajane/DSA/tree/master/0278-first-bad-version) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gopalrajane/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/gopalrajane/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gopalrajane/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gopalrajane/DSA/tree/master/0912-sort-an-array) |
