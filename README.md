@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/gopalrajane/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gopalrajane/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/gopalrajane/DSA/tree/master/0456-132-pattern) |
+| [0643-maximum-average-subarray-i](https://github.com/gopalrajane/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/gopalrajane/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/gopalrajane/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/gopalrajane/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/gopalrajane/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gopalrajane/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/gopalrajane/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gopalrajane/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
